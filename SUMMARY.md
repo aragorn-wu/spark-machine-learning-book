@@ -10,5 +10,5 @@
   * [3.1 获取公开数据集](31-huo-qu-gong-kai-shu-ju-ji.md)
   * [3.2 探索可视化数据](32-tan-suo-ke-shi-hua-shu-ju.md)
   * [3.3 处理与转换数据](33-chu-li-yu-zhuan-huan-shu-ju.md)
-  * 3.4 从数据中提取有用的特征
+  * [3.4 从数据中提取有用的特征](34-cong-shu-ju-zhong-ti-qu-you-yong-de-te-zheng.md)
 
